@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/lib/tomcat7/webapps":{"guestpath":"/var/lib/tomcat7/webapps","hostpath":"E:/vagrant four","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/vagrant four","disabled":false,"__vagrantfile":true}}}
