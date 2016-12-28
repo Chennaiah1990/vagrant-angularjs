@@ -1,0 +1,10 @@
+# anybody want login in vagrant box follow the instructions 
+1. open putty
+    host name : 192.168.33.10
+2. click "+" SSH under Connection  in right side ctegory block
+3. click agan Auth (don't press + symbol )
+4. and press left side Browse (upload vagrantppkfile.ppk)
+5. click open button
+	
+	username: ubuntu
+	(no need password)
